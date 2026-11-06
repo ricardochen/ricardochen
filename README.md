@@ -3,7 +3,7 @@
 **Forward-deployed engineer — AI and computer vision for field operations.**
 I build systems that get used in the real world: computer vision in supermarket aisles, voice kiosks in showrooms, and assistants with guardrails inside banks and law firms.
 
-Ten years co-founding and running engineering at Wisy (retail execution, 20+ countries), two years deploying into enterprise operations across Panama, Germany, Italy, Portugal, Spain and Chile. Now independent, in Panama.
+Ten years co-founding and running engineering at Wisy (retail execution), two years deploying into enterprise operations across Panama, Germany, Italy, Portugal, Spain and Chile. Now independent, in Panama.
 
 ### Public work
 
